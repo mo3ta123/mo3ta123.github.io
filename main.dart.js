@@ -69211,8 +69211,8 @@ a4(){return new A.MP([!1,!1,!1,!1,!1,!1,!1,!1],B.i)}}
 A.MP.prototype={
 F(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=a.K(t.w).f.a.a,h=A.a6(a).as
 h=A.aw(B.d.aP(255*k.a.c),h.gn(h)>>>16&255,h.gn(h)>>>8&255,h.gn(h)&255)
-s=A.fT("images/Logo/nakhlatech_logo_trans_main_logo.png",j,80)
-r=A.fT("images/Logo/nakhlatech_logo_trans_text_cutted.png",j,100)
+s=A.fT(u.E,j,80)
+r=A.fT(u.W,j,100)
 q=k.a.d
 p=k.d
 o=A.bC("Discover",j,j,j,A.bT(j,j,p[0]?B.dZ:B.k,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j)
